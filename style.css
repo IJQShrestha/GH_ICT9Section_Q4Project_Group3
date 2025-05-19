@@ -29,3 +29,31 @@
       bottom: 0;
       width: 100%;
 }
+.col-md-2 {
+  background-color: #7887AB;
+  border: 1px solid #dee2e6;       
+  border-radius: 8px;              
+  padding: 20px;                   
+  margin: 10px;                    
+  text-align: center;              
+  min-height: 250px;              
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 10px 10px 23px 0px #4F628E;
+}
+
+.col-md-2 img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.row {
+  justify-content: center;
+}
+
+.about{
+      text-align: center
+}
