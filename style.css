@@ -104,5 +104,7 @@
       font-size: 13px;
       color: black;
     }
-
+body {
+      background-color: lightslategray;
+}
 
